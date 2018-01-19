@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="BC_TEABAG">
+        BC.TeaBag()
+    </Binding>
+</Bindings>

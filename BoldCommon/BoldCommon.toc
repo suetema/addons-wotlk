@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cffffaaffBold|rLazyWarrior
+## Notes: Boldi's collection of semi useful stuff.
+## Author: Loes/Boldi
+## Version: 0.0.1
+## Dependencies:
+BoldCommon.xml
+Bindings.xml

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cffffaaffBold|rLazyWarrior
+## Notes: Loes' warrior rotations
+## Author: Loes/Boldi
+## Version: 0.0.1
+## Dependencies: BoldCommon
+
+BoldLazyWarrior.xml
+Bindings.xml

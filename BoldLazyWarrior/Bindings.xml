@@ -1,0 +1,11 @@
+<Bindings>
+    <Binding name="BLW_DPS" header="BLW">
+        BLW.DPS()
+    </Binding>
+    <Binding name="BLW_TANK">
+        BLW.Tank()
+    </Binding>
+    <Binding name="BLW_AOE">
+        BLW.AoE()
+    </Binding>
+</Bindings>
